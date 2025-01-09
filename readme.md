@@ -11,3 +11,5 @@ You will have something like this [Initialized empty Git repository in C:/Users/
 * to push you can do "git push orgin main" OR 
 * if you want the coming files to push directly to this repo you type "git push -u origin master" [-u = upstream]
 * after putting the above command you can just type "git push" and it will automatically push the files in that repo
+
+## NEXT is Branching 
