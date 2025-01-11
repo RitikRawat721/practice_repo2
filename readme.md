@@ -6,7 +6,7 @@ You will have something like this [Initialized empty Git repository in C:/Users/
 
 ## How to push the files in remote repository
 * Create a repository in the github
-* come to the terminal and type "git add remote origin [link of the repository]"
+* come to the terminal and type "git remote add origin [link of the repository]"
 * you can check the remote repopsitory connected in the current repo by typing "git remote -v"
 * to push you can do "git push orgin main" OR 
 * if you want the coming files to push directly to this repo you type "git push -u origin master" [-u = upstream]
